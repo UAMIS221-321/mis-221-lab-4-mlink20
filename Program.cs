@@ -16,6 +16,7 @@ static int GetUserChoice() {
 }
 
 static void DisplayMenu() {
+    Console.Clear();
     System.Console.WriteLine("Enter 1 to display full triangle\nEnter 2 to display partial triangle\nEnter 3 to exit");
 }
 
