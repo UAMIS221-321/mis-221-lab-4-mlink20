@@ -1,0 +1,15 @@
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/bin/Debug/net7.0/mis-221-lab-4-mlink20
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/bin/Debug/net7.0/mis-221-lab-4-mlink20.deps.json
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/bin/Debug/net7.0/mis-221-lab-4-mlink20.runtimeconfig.json
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/bin/Debug/net7.0/mis-221-lab-4-mlink20.dll
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/bin/Debug/net7.0/mis-221-lab-4-mlink20.pdb
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.csproj.AssemblyReference.cache
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.AssemblyInfoInputs.cache
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.AssemblyInfo.cs
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.csproj.CoreCompileInputs.cache
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.dll
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/refint/mis-221-lab-4-mlink20.dll
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.pdb
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/mis-221-lab-4-mlink20.genruntimeconfig.cache
+/Users/meredithlink/Desktop/mis221/mis-221-lab-4-mlink20/obj/Debug/net7.0/ref/mis-221-lab-4-mlink20.dll
